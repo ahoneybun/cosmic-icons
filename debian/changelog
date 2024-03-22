@@ -1,5 +1,9 @@
-cosmic-icons (0.1.0) UNRELEASED; urgency=medium
+cosmic-icons (0.1.0ubuntu1) noble; urgency=medium
 
+  [ Ashley Wulber ]
   * Initial release.
 
- -- Ashley Wulber <ashley@system76.com>  Fri, 28 Jul 2023 09:39:19 -0700
+  [ Aaron Honeycutt ]
+  * Update to noble
+
+ -- Aaron Honeycutt <aaron@system76.com>  Fri, 22 Mar 2024 14:17:54 -0600
